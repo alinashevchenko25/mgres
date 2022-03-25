@@ -1,0 +1,17 @@
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\bin\Debug\uchet_rezerva.exe.config
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\bin\Debug\uchetrezerv.mdb
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\bin\Debug\uchet_rezerva.exe
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\bin\Debug\uchet_rezerva.pdb
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.csprojResolveAssemblyReference.cache
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.Form1.resources
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.Properties.Resources.resources
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.csproj.GenerateResource.Cache
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.exe
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.pdb
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.Form2.resources
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\bin\Debug\spravocnik.mdb
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.spravocnik.resources
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.AddForm.resources
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.kalculator.resources
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.Add.resources
+C:\Users\Алина\Documents\Visual Studio 2012\Projects\uchet_rezerva\uchet_rezerva\obj\Debug\uchet_rezerva.DeleteForm.resources
